@@ -18,8 +18,20 @@ Follow these steps to set up and run the chatbot:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/OKarpacz/ChatGPT-Chatbot-With-Node.js.git
+   ```
+   2. **Connect to catalog:**
+   ```bash
    cd ChatGPT-Chatbot-With-Node.js
+   ```
+   1. **Install npm:**
+   ```bash
    npm install
+   ```
+   1. **Enter your API key and save it as a .env file:**
+   ```bash
    OPENAI_API_KEY=your_openai_api_key
+   ```
+   1. **Start the app:**
+   ```bash
    npm start
-  
+   ```
